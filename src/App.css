@@ -1,0 +1,23 @@
+body{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+li{
+  list-style-type: none;
+}
+
+.chatbox{
+ margin-top: 100px;
+}
+
+.messageList{
+  margin-top: 50px;
+  background-color: rgba(0, 0, 255, 0.042);
+}
+button{
+  margin-left: 10px;
+  background-image: linear-gradient(red, yellow);
+  font-style: oblique;
+}
